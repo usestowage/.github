@@ -1,14 +1,3 @@
-## Instant static sites.
+[<img src="https://public-cdn.berrysauce.me/shared/banner2.jpg">]([https://link-to-your-URL/](https://stowage.dev))
 
-[![stowage Banner]([image](https://public-cdn.berrysauce.me/shared/banner2.jpg))](https://stowage.dev)
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Stowage makes it easy to deploy static sites directly from the command-line. Just one command and you've got a fully managed, SSL-secured, and ultra-fast static site deployed.
